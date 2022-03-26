@@ -1,0 +1,12 @@
+{
+	"name": "keksik-vk-callback-api",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/lightalex/keksik-vk-callback-api",
+	"author": "Light Alex",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"express": "^4.17.3"
+	}
+}
